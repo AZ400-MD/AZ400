@@ -1,1 +1,3 @@
 Example FileC
+Let's make a changeg
+This is for Squash merge no.2
