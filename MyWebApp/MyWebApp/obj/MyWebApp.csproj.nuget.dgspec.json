@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dziur\\Desktop\\AZ400\\MyWebApp\\MyWebApp\\MyWebApp.csproj": {}
+    "C:\\Users\\dziur\\AZ400\\MyWebApp\\MyWebApp\\MyWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dziur\\Desktop\\AZ400\\MyWebApp\\MyWebApp\\MyWebApp.csproj": {
+    "C:\\Users\\dziur\\AZ400\\MyWebApp\\MyWebApp\\MyWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dziur\\Desktop\\AZ400\\MyWebApp\\MyWebApp\\MyWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\dziur\\AZ400\\MyWebApp\\MyWebApp\\MyWebApp.csproj",
         "projectName": "MyWebApp",
-        "projectPath": "C:\\Users\\dziur\\Desktop\\AZ400\\MyWebApp\\MyWebApp\\MyWebApp.csproj",
+        "projectPath": "C:\\Users\\dziur\\AZ400\\MyWebApp\\MyWebApp\\MyWebApp.csproj",
         "packagesPath": "C:\\Users\\dziur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dziur\\Desktop\\AZ400\\MyWebApp\\MyWebApp\\obj\\",
+        "outputPath": "C:\\Users\\dziur\\AZ400\\MyWebApp\\MyWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dziur\\AppData\\Roaming\\NuGet\\NuGet.Config"
